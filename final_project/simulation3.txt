@@ -1,0 +1,2091 @@
+DEBUG (1): The mote 1: has booted.
+DEBUG (1): The radio module for mote 1 is active.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (2): The mote 2: has booted.
+DEBUG (2): The radio module for mote 2 is active.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is not registered in memory of mote 2.
+DEBUG (2): Registering mote 1 in memory of mote 2...
+DEBUG (2): Memory available in 2 : Registering mote 1...
+DEBUG (2): Registering of mote 1 finished.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is not registered in memory of mote 1.
+DEBUG (1): Registering mote 2 in memory of mote 1...
+DEBUG (1): Memory available in 1 : Registering mote 2...
+DEBUG (1): Registering of mote 2 finished.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 2.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 2.
+DEBUG (3): The mote 3: has booted.
+DEBUG (3): The radio module for mote 3 is active.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is not registered in memory of mote 3.
+DEBUG (3): Registering mote 1 in memory of mote 3...
+DEBUG (3): Memory available in 3 : Registering mote 1...
+DEBUG (3): Registering of mote 1 finished.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 3.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 3.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is not registered in memory of mote 3.
+DEBUG (3): Registering mote 2 in memory of mote 3...
+DEBUG (3): Memory available in 3 : Registering mote 2...
+DEBUG (3): Registering of mote 2 finished.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is not registered in memory of mote 1.
+DEBUG (1): Registering mote 3 in memory of mote 1...
+DEBUG (1): Memory available in 1 : Registering mote 3...
+DEBUG (1): Registering of mote 3 finished.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is not registered in memory of mote 2.
+DEBUG (2): Registering mote 3 in memory of mote 2...
+DEBUG (2): Memory available in 2 : Registering mote 3...
+DEBUG (2): Registering of mote 3 finished.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 4.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 4.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 2.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 2.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 2.
+DEBUG (4): The mote 4: has booted.
+DEBUG (4): The radio module for mote 4 is active.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is not registered in memory of mote 4.
+DEBUG (4): Registering mote 1 in memory of mote 4...
+DEBUG (4): Memory available in 4 : Registering mote 1...
+DEBUG (4): Registering of mote 1 finished.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 5.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is not registered in memory of mote 4.
+DEBUG (4): Registering mote 2 in memory of mote 4...
+DEBUG (4): Memory available in 4 : Registering mote 2...
+DEBUG (4): Registering of mote 2 finished.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 3.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 3.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 3.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is not registered in memory of mote 3.
+DEBUG (3): Registering mote 4 in memory of mote 3...
+DEBUG (3): Memory available in 3 : Registering mote 4...
+DEBUG (3): Registering of mote 4 finished.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is not registered in memory of mote 2.
+DEBUG (2): Registering mote 4 in memory of mote 2...
+DEBUG (2): Memory available in 2 : Registering mote 4...
+DEBUG (2): Registering of mote 4 finished.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is not registered in memory of mote 1.
+DEBUG (1): Registering mote 4 in memory of mote 1...
+DEBUG (1): Memory available in 1 : Registering mote 4...
+DEBUG (1): Registering of mote 4 finished.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 2.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): The mote 1 sent its message 993 milliseconds ago.
+DEBUG (3): Its counter is reset
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 6.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 2.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 4.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): The mote 2 sent its message 1000 milliseconds ago.
+DEBUG (1): Its counter is reset
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is not registered in memory of mote 4.
+DEBUG (4): Registering mote 3 in memory of mote 4...
+DEBUG (4): Memory available in 4 : Registering mote 3...
+DEBUG (4): Registering of mote 3 finished.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 4.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 4.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 2.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 2.
+DEBUG (5): The mote 5: has booted.
+DEBUG (5): The radio module for mote 5 is active.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is not registered in memory of mote 5.
+DEBUG (5): Registering mote 1 in memory of mote 5...
+DEBUG (5): Memory available in 5 : Registering mote 1...
+DEBUG (5): Registering of mote 1 finished.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 3.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 7.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is not registered in memory of mote 5.
+DEBUG (5): Registering mote 2 in memory of mote 5...
+DEBUG (5): Memory available in 5 : Registering mote 2...
+DEBUG (5): Registering of mote 2 finished.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 3.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 5.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 2.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is not registered in memory of mote 5.
+DEBUG (5): Registering mote 3 in memory of mote 5...
+DEBUG (5): Memory available in 5 : Registering mote 3...
+DEBUG (5): Registering of mote 3 finished.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 5.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 2.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 5.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is not registered in memory of mote 5.
+DEBUG (5): Registering mote 4 in memory of mote 5...
+DEBUG (5): Memory available in 5 : Registering mote 4...
+DEBUG (5): Registering of mote 4 finished.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 3.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 3.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 3.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is not registered in memory of mote 4.
+DEBUG (4): Registering mote 5 in memory of mote 4...
+DEBUG (4): Memory available in 4 : Registering mote 5...
+DEBUG (4): Registering of mote 5 finished.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is not registered in memory of mote 3.
+DEBUG (3): Registering mote 5 in memory of mote 3...
+DEBUG (3): Memory available in 3 : Registering mote 5...
+DEBUG (3): Registering of mote 5 finished.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is not registered in memory of mote 2.
+DEBUG (2): Registering mote 5 in memory of mote 2...
+DEBUG (2): Memory available in 2 : Registering mote 5...
+DEBUG (2): Registering of mote 5 finished.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is not registered in memory of mote 1.
+DEBUG (1): Registering mote 5 in memory of mote 1...
+DEBUG (1): Memory available in 1 : Registering mote 5...
+DEBUG (1): Registering of mote 5 finished.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 2.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 4.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 8.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 2.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 4.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 6.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 3.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 2.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 6.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 3.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 6.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 2.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 4.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 4.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 4.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 2.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 2.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 2.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 3.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 5.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): The mote 1 sent its message 1008 milliseconds ago.
+DEBUG (3): Its counter is reset
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 9.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 4.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 3.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 5.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 3.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 7.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 4.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 7.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 5.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 5.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 5.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 3.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 3.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 3.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 3.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 3.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 4.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 6.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 10.
+DEBUG (2): Alarm!!! The mote 2 is passing message to Node-Red. message: 2,1.
+DEBUG (2): The forwading operation from mote 2 is done. message: 2,1.
+DEBUG (2): The mote 2 reset the counter for mote 1.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 4.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 5.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 6.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): The mote 2 sent its message 1002 milliseconds ago.
+DEBUG (3): Its counter is reset
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 8.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 4.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 5.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 8.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 4.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 6.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 6.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 6.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 4.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 4.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 4.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 4.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 5.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 3.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 1.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 7.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 5.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 7.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 2.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 6.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 5.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 9.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 6.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 9.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 5.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 7.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 7.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 7.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 5.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 5.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 5.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 5.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 6.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 8.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 4.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 2.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 6.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 8.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 3.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 7.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 10.
+DEBUG (1): Alarm!!! The mote 1 is passing message to Node-Red. message: 1,3.
+DEBUG (1): The forwading operation from mote 1 is done. message: 1,3.
+DEBUG (1): The mote 1 reset the counter for mote 3.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 6.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 7.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 10.
+DEBUG (2): Alarm!!! The mote 2 is passing message to Node-Red. message: 2,3.
+DEBUG (2): The forwading operation from mote 2 is done. message: 2,3.
+DEBUG (2): The mote 2 reset the counter for mote 3.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 6.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 8.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 8.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 8.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 6.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 6.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 6.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 6.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 7.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 9.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 5.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 3.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 7.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 9.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 4.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 8.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 7.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 1.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 8.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 1.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 7.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 9.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 9.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 9.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 7.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 7.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 7.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 8.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 10.
+DEBUG (4): Alarm!!! The mote 4 is passing message to Node-Red. message: 4,1.
+DEBUG (4): The forwading operation from mote 4 is done. message: 4,1.
+DEBUG (4): The mote 4 reset the counter for mote 1.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 4.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 8.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 10.
+DEBUG (4): Alarm!!! The mote 4 is passing message to Node-Red. message: 4,2.
+DEBUG (4): The forwading operation from mote 4 is done. message: 4,2.
+DEBUG (4): The mote 4 reset the counter for mote 2.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 5.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 8.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 2.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 9.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 2.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 8.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 10.
+DEBUG (3): Alarm!!! The mote 3 is passing message to Node-Red. message: 3,4.
+DEBUG (3): The forwading operation from mote 3 is done. message: 3,4.
+DEBUG (3): The mote 3 reset the counter for mote 4.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 10.
+DEBUG (2): Alarm!!! The mote 2 is passing message to Node-Red. message: 2,4.
+DEBUG (2): The forwading operation from mote 2 is done. message: 2,4.
+DEBUG (2): The mote 2 reset the counter for mote 4.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 10.
+DEBUG (1): Alarm!!! The mote 1 is passing message to Node-Red. message: 1,4.
+DEBUG (1): The forwading operation from mote 1 is done. message: 1,4.
+DEBUG (1): The mote 1 reset the counter for mote 4.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 8.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 8.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): The mote 5 sent its message 994 milliseconds ago.
+DEBUG (2): Its counter is reset
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 8.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 9.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 1.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): The mote 1 sent its message 1002 milliseconds ago.
+DEBUG (3): Its counter is reset
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 5.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 9.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 1.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 6.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): The mote 2 sent its message 999 milliseconds ago.
+DEBUG (1): Its counter is reset
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 9.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 10.
+DEBUG (4): Alarm!!! The mote 4 is passing message to Node-Red. message: 4,3.
+DEBUG (4): The forwading operation from mote 4 is done. message: 4,3.
+DEBUG (4): The mote 4 reset the counter for mote 3.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 3.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 3.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 9.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 1.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 1.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 1.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 9.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 9.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 9.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 10.
+DEBUG (5): Alarm!!! The mote 5 is passing message to Node-Red. message: 5,1.
+DEBUG (5): The forwading operation from mote 5 is done. message: 5,1.
+DEBUG (5): The mote 5 reset the counter for mote 1.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 2.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 6.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 10.
+DEBUG (5): Alarm!!! The mote 5 is passing message to Node-Red. message: 5,2.
+DEBUG (5): The forwading operation from mote 5 is done. message: 5,2.
+DEBUG (5): The mote 5 reset the counter for mote 2.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 2.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 7.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 2.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 10.
+DEBUG (5): Alarm!!! The mote 5 is passing message to Node-Red. message: 5,3.
+DEBUG (5): The forwading operation from mote 5 is done. message: 5,3.
+DEBUG (5): The mote 5 reset the counter for mote 3.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 4.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 1.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 4.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 10.
+DEBUG (5): Alarm!!! The mote 5 is passing message to Node-Red. message: 5,4.
+DEBUG (5): The forwading operation from mote 5 is done. message: 5,4.
+DEBUG (5): The mote 5 reset the counter for mote 4.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 2.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 2.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 10.
+DEBUG (4): Alarm!!! The mote 4 is passing message to Node-Red. message: 4,5.
+DEBUG (4): The forwading operation from mote 4 is done. message: 4,5.
+DEBUG (4): The mote 4 reset the counter for mote 5.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 10.
+DEBUG (3): Alarm!!! The mote 3 is passing message to Node-Red. message: 3,5.
+DEBUG (3): The forwading operation from mote 3 is done. message: 3,5.
+DEBUG (3): The mote 3 reset the counter for mote 5.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): The mote 5 sent its message 1003 milliseconds ago.
+DEBUG (2): Its counter is reset
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 10.
+DEBUG (1): Alarm!!! The mote 1 is passing message to Node-Red. message: 1,5.
+DEBUG (1): The forwading operation from mote 1 is done. message: 1,5.
+DEBUG (1): The mote 1 reset the counter for mote 5.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 1.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 3.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 3.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 7.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 1.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 3.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 8.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 3.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 1.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 5.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 2.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 5.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 1.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 3.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 3.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 3.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 1.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 1.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 2.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 1.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 2.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 4.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 4.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 8.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 2.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 4.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 9.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 4.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 2.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 6.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 3.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 6.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 2.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 4.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 4.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 4.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 3.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 2.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 3.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 5.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 5.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 9.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 3.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 5.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 10.
+DEBUG (3): Alarm!!! The mote 3 is passing message to Node-Red. message: 3,2.
+DEBUG (3): The forwading operation from mote 3 is done. message: 3,2.
+DEBUG (3): The mote 3 reset the counter for mote 2.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 5.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 3.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 7.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 4.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 7.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 5.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 5.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 5.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 3.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): The mote 5 sent its message 993 milliseconds ago.
+DEBUG (4): Its counter is reset
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 3.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 4.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 3.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 4.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 6.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 6.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 10.
+DEBUG (2): Alarm!!! The mote 2 is passing message to Node-Red. message: 2,1.
+DEBUG (2): The forwading operation from mote 2 is done. message: 2,1.
+DEBUG (2): The mote 2 reset the counter for mote 1.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 6.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 4.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 6.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 4.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 8.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 5.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 8.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 4.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 6.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 6.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 6.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 2.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 4.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 5.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 4.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 5.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 7.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 7.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 1.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 5.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 7.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 7.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): The mote 2 sent its message 1004 milliseconds ago.
+DEBUG (3): Its counter is reset
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 5.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 9.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 6.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 9.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 5.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 7.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 7.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 7.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 3.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 5.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 6.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 5.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 6.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 8.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 8.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 2.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 6.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 8.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 2.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 8.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 6.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 10.
+DEBUG (1): Alarm!!! The mote 1 is passing message to Node-Red. message: 1,3.
+DEBUG (1): The forwading operation from mote 1 is done. message: 1,3.
+DEBUG (1): The mote 1 reset the counter for mote 3.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 7.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 10.
+DEBUG (2): Alarm!!! The mote 2 is passing message to Node-Red. message: 2,3.
+DEBUG (2): The forwading operation from mote 2 is done. message: 2,3.
+DEBUG (2): The mote 2 reset the counter for mote 3.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 6.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 8.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 8.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 8.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 4.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 6.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 7.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 6.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 7.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 9.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 9.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 3.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 7.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 9.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 3.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 9.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 7.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 1.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 8.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 1.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 7.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 9.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 9.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 9.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 5.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 7.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 8.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 7.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 8.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 10.
+DEBUG (4): Alarm!!! The mote 4 is passing message to Node-Red. message: 4,1.
+DEBUG (4): The forwading operation from mote 4 is done. message: 4,1.
+DEBUG (4): The mote 4 reset the counter for mote 1.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 10.
+DEBUG (3): Alarm!!! The mote 3 is passing message to Node-Red. message: 3,1.
+DEBUG (3): The forwading operation from mote 3 is done. message: 3,1.
+DEBUG (3): The mote 3 reset the counter for mote 1.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 4.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 8.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 10.
+DEBUG (4): Alarm!!! The mote 4 is passing message to Node-Red. message: 4,2.
+DEBUG (4): The forwading operation from mote 4 is done. message: 4,2.
+DEBUG (4): The mote 4 reset the counter for mote 2.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 4.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 10.
+DEBUG (1): Alarm!!! The mote 1 is passing message to Node-Red. message: 1,2.
+DEBUG (1): The forwading operation from mote 1 is done. message: 1,2.
+DEBUG (1): The mote 1 reset the counter for mote 2.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 9.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 2.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 2.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 8.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 8.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 10.
+DEBUG (3): Alarm!!! The mote 3 is passing message to Node-Red. message: 3,4.
+DEBUG (3): The forwading operation from mote 3 is done. message: 3,4.
+DEBUG (3): The mote 3 reset the counter for mote 4.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 4 in mote 2 is 10.
+DEBUG (2): Alarm!!! The mote 2 is passing message to Node-Red. message: 2,4.
+DEBUG (2): The forwading operation from mote 2 is done. message: 2,4.
+DEBUG (2): The mote 2 reset the counter for mote 4.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 10.
+DEBUG (1): Alarm!!! The mote 1 is passing message to Node-Red. message: 1,4.
+DEBUG (1): The forwading operation from mote 1 is done. message: 1,4.
+DEBUG (1): The mote 1 reset the counter for mote 4.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 6.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 8.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 9.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 8.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 9.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 1.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 1.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 5.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 9.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 1.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 5.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 1.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 3.
+DEBUG (5): The mote 3 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 3 in mote 5 is 9.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 3.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 10.
+DEBUG (4): Alarm!!! The mote 4 is passing message to Node-Red. message: 4,3.
+DEBUG (4): The forwading operation from mote 4 is done. message: 4,3.
+DEBUG (4): The mote 4 reset the counter for mote 3.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 3.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 9.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 1.
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 1.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 7.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 9.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 10.
+DEBUG (2): Alarm!!! The mote 2 is passing message to Node-Red. message: 2,5.
+DEBUG (2): The forwading operation from mote 2 is done. message: 2,5.
+DEBUG (2): The mote 2 reset the counter for mote 5.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 9.
+DEBUG (1): The mote 1 timer is fired.
+DEBUG (1): The message sent from mote 1 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 1.
+DEBUG (5): The mote 1 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 1 in mote 5 is 10.
+DEBUG (5): Alarm!!! The mote 5 is passing message to Node-Red. message: 5,1.
+DEBUG (5): The forwading operation from mote 5 is done. message: 5,1.
+DEBUG (5): The mote 5 reset the counter for mote 1.
+DEBUG (4): The mote 4 received packet from mote 1.
+DEBUG (4): The mote 1 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 1 in mote 4 is 2.
+DEBUG (3): The mote 3 received packet from mote 1.
+DEBUG (3): The mote 1 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 1 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 1.
+DEBUG (2): The mote 1 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 1 in mote 2 is 6.
+DEBUG (2): The mote 2 timer is fired.
+DEBUG (2): The message sent from mote 2 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 2.
+DEBUG (5): The mote 2 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 2 in mote 5 is 10.
+DEBUG (5): Alarm!!! The mote 5 is passing message to Node-Red. message: 5,2.
+DEBUG (5): The forwading operation from mote 5 is done. message: 5,2.
+DEBUG (5): The mote 5 reset the counter for mote 2.
+DEBUG (4): The mote 4 received packet from mote 2.
+DEBUG (4): The mote 2 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 2 in mote 4 is 2.
+DEBUG (3): The mote 3 received packet from mote 2.
+DEBUG (3): The mote 2 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 2 in mote 3 is 6.
+DEBUG (1): The mote 1 received packet from mote 2.
+DEBUG (1): The mote 2 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 2 in mote 1 is 2.
+DEBUG (3): The mote 3 timer is fired.
+DEBUG (3): The message sent from mote 3 in broadcast.
+DEBUG (1): The mote 1 received packet from mote 3.
+DEBUG (1): The mote 3 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 3 in mote 1 is 4.
+DEBUG (4): The mote 4 received packet from mote 3.
+DEBUG (4): The mote 3 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 3 in mote 4 is 1.
+DEBUG (2): The mote 2 received packet from mote 3.
+DEBUG (2): The mote 3 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 3 in mote 2 is 4.
+DEBUG (4): The mote 4 timer is fired.
+DEBUG (4): The message sent from mote 4 in broadcast.
+DEBUG (5): The mote 5 received packet from mote 4.
+DEBUG (5): The mote 4 is already registered in memory of mote 5.
+DEBUG (5): Check if the current time is within the range.
+DEBUG (5): Counter for mote 4 in mote 5 is 10.
+DEBUG (5): Alarm!!! The mote 5 is passing message to Node-Red. message: 5,4.
+DEBUG (5): The forwading operation from mote 5 is done. message: 5,4.
+DEBUG (5): The mote 5 reset the counter for mote 4.
+DEBUG (3): The mote 3 received packet from mote 4.
+DEBUG (3): The mote 4 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 4 in mote 3 is 2.
+DEBUG (2): The mote 2 received packet from mote 4.
+DEBUG (2): The mote 4 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): The mote 4 sent its message 995 milliseconds ago.
+DEBUG (2): Its counter is reset
+DEBUG (1): The mote 1 received packet from mote 4.
+DEBUG (1): The mote 4 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 4 in mote 1 is 2.
+DEBUG (5): The mote 5 timer is fired.
+DEBUG (5): The message sent from mote 5 in broadcast.
+DEBUG (4): The mote 4 received packet from mote 5.
+DEBUG (4): The mote 5 is already registered in memory of mote 4.
+DEBUG (4): Check if the current time is within the range.
+DEBUG (4): Counter for mote 5 in mote 4 is 8.
+DEBUG (3): The mote 3 received packet from mote 5.
+DEBUG (3): The mote 5 is already registered in memory of mote 3.
+DEBUG (3): Check if the current time is within the range.
+DEBUG (3): Counter for mote 5 in mote 3 is 10.
+DEBUG (3): Alarm!!! The mote 3 is passing message to Node-Red. message: 3,5.
+DEBUG (3): The forwading operation from mote 3 is done. message: 3,5.
+DEBUG (3): The mote 3 reset the counter for mote 5.
+DEBUG (2): The mote 2 received packet from mote 5.
+DEBUG (2): The mote 5 is already registered in memory of mote 2.
+DEBUG (2): Check if the current time is within the range.
+DEBUG (2): Counter for mote 5 in mote 2 is 1.
+DEBUG (1): The mote 1 received packet from mote 5.
+DEBUG (1): The mote 5 is already registered in memory of mote 1.
+DEBUG (1): Check if the current time is within the range.
+DEBUG (1): Counter for mote 5 in mote 1 is 10.
+DEBUG (1): Alarm!!! The mote 1 is passing message to Node-Red. message: 1,5.
+DEBUG (1): The forwading operation from mote 1 is done. message: 1,5.
+DEBUG (1): The mote 1 reset the counter for mote 5.
