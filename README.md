@@ -9,6 +9,6 @@ Design and implement a software prototype for a so- cial distancing application 
 * Upon the reception of the alert, Node-red sends a notification through IFTTT to your mobile phone.
 Use at least 5 motes. Start the simulation with all the mote far away from each other and move them with the mouse testing different configurations.
 
-##How to use:
+## How to use:
 * final_project folder contains TinyOS and TOSSIm source code.
-* node-red folder include flows that make connection between cooja simulator then make a notification with IFTTT.
+* node-red folder includes flows that make the connection between cooja simulator then make a notification with IFTTT.
