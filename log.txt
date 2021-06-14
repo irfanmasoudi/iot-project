@@ -1,0 +1,562 @@
+29bc4b1a.652164 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+29bc4b1a.652164 : Distance violation mote 3 is too close to mote 1
+29bc4b1a.652164 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+29bc4b1a.652164 : Message received from user with ID 3 on port 60003
+91bb457a.7e4088 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+91bb457a.7e4088 : Distance violation mote 1 is too close to mote 3
+91bb457a.7e4088 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+91bb457a.7e4088 : Message received from user with ID 1 on port 60001
+29bc4b1a.652164 : Notification send to user 3mobile phone
+91bb457a.7e4088 : Notification send to user 1mobile phone
+614d38a7.3f2798 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+614d38a7.3f2798 : Distance violation mote 3 is too close to mote 1
+614d38a7.3f2798 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+614d38a7.3f2798 : Message received from user with ID 3 on port 60003
+7344c1ff.b4e3f : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+7344c1ff.b4e3f : Distance violation mote 1 is too close to mote 3
+7344c1ff.b4e3f : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+7344c1ff.b4e3f : Message received from user with ID 1 on port 60001
+614d38a7.3f2798 : Notification send to user 3mobile phone
+7344c1ff.b4e3f : Notification send to user 1mobile phone
+751b9ac9.986a44 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+751b9ac9.986a44 : Distance violation mote 3 is too close to mote 1
+751b9ac9.986a44 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+751b9ac9.986a44 : Message received from user with ID 3 on port 60003
+4350a783.eb26e8 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+4350a783.eb26e8 : Distance violation mote 1 is too close to mote 3
+4350a783.eb26e8 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+4350a783.eb26e8 : Message received from user with ID 1 on port 60001
+751b9ac9.986a44 : Notification send to user 3mobile phone
+4350a783.eb26e8 : Notification send to user 1mobile phone
+c6087c9a.b9f6 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+c6087c9a.b9f6 : Distance violation mote 3 is too close to mote 1
+c6087c9a.b9f6 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+c6087c9a.b9f6 : Message received from user with ID 3 on port 60003
+28718439.e7eb9c : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+28718439.e7eb9c : Distance violation mote 1 is too close to mote 3
+28718439.e7eb9c : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+28718439.e7eb9c : Message received from user with ID 1 on port 60001
+28718439.e7eb9c : Notification send to user 1mobile phone
+c6087c9a.b9f6 : Notification send to user 3mobile phone
+a4b3ee82.4e1dc : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 2 Please keep your distance"
+a4b3ee82.4e1dc : Distance violation mote 1 is too close to mote 2
+a4b3ee82.4e1dc : True Message from user with ID 1 extracted successfuly. Message extracted: 1,2
+a4b3ee82.4e1dc : Message received from user with ID 1 on port 60001
+c1a40280.547c6 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 2 Please keep your distance"
+c1a40280.547c6 : Distance violation mote 3 is too close to mote 2
+c1a40280.547c6 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,2
+c1a40280.547c6 : Message received from user with ID 3 on port 60003
+220495f5.1df31a : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 1 Please keep your distance"
+220495f5.1df31a : Distance violation mote 2 is too close to mote 1
+220495f5.1df31a : True Message from user with ID 2 extracted successfuly. Message extracted: 2,1
+220495f5.1df31a : Message received from user with ID 2 on port 60002
+6df29169.48ea : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 3 Please keep your distance"
+6df29169.48ea : Distance violation mote 2 is too close to mote 3
+6df29169.48ea : True Message from user with ID 2 extracted successfuly. Message extracted: 2,3
+6df29169.48ea : Message received from user with ID 2 on port 60002
+a4b3ee82.4e1dc : Notification send to user 1mobile phone
+c1a40280.547c6 : Notification send to user 3mobile phone
+4f19da08.dde354 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+4f19da08.dde354 : Distance violation mote 3 is too close to mote 1
+4f19da08.dde354 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+4f19da08.dde354 : Message received from user with ID 3 on port 60003
+d6018dd7.5e1bf : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+d6018dd7.5e1bf : Distance violation mote 1 is too close to mote 3
+d6018dd7.5e1bf : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+d6018dd7.5e1bf : Message received from user with ID 1 on port 60001
+d6018dd7.5e1bf : Notification send to user 1mobile phone
+4f19da08.dde354 : Notification send to user 3mobile phone
+988ce326.b8cf : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 2 Please keep your distance"
+988ce326.b8cf : Distance violation mote 1 is too close to mote 2
+988ce326.b8cf : True Message from user with ID 1 extracted successfuly. Message extracted: 1,2
+988ce326.b8cf : Message received from user with ID 1 on port 60001
+cc774014.ee10f : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 2 Please keep your distance"
+cc774014.ee10f : Distance violation mote 3 is too close to mote 2
+cc774014.ee10f : True Message from user with ID 3 extracted successfuly. Message extracted: 3,2
+cc774014.ee10f : Message received from user with ID 3 on port 60003
+a2825528.122058 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 1 Please keep your distance"
+a2825528.122058 : Distance violation mote 2 is too close to mote 1
+a2825528.122058 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,1
+a2825528.122058 : Message received from user with ID 2 on port 60002
+6710ce60.03107 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 3 Please keep your distance"
+6710ce60.03107 : Distance violation mote 2 is too close to mote 3
+6710ce60.03107 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,3
+6710ce60.03107 : Message received from user with ID 2 on port 60002
+cc774014.ee10f : Notification send to user 3mobile phone
+988ce326.b8cf : Notification send to user 1mobile phone
+6aca7f3.1f0ef8 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+6aca7f3.1f0ef8 : Distance violation mote 3 is too close to mote 1
+6aca7f3.1f0ef8 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+6aca7f3.1f0ef8 : Message received from user with ID 3 on port 60003
+1abb685a.0446f8 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+1abb685a.0446f8 : Distance violation mote 1 is too close to mote 3
+1abb685a.0446f8 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+1abb685a.0446f8 : Message received from user with ID 1 on port 60001
+1abb685a.0446f8 : Notification send to user 1mobile phone
+6aca7f3.1f0ef8 : Notification send to user 3mobile phone
+ecde7cb6.6c646 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 2 Please keep your distance"
+ecde7cb6.6c646 : Distance violation mote 3 is too close to mote 2
+ecde7cb6.6c646 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,2
+ecde7cb6.6c646 : Message received from user with ID 3 on port 60003
+6ec06140.7ecd5 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 2 Please keep your distance"
+6ec06140.7ecd5 : Distance violation mote 1 is too close to mote 2
+6ec06140.7ecd5 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,2
+6ec06140.7ecd5 : Message received from user with ID 1 on port 60001
+27bdbb3e.bacc54 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 1 Please keep your distance"
+27bdbb3e.bacc54 : Distance violation mote 2 is too close to mote 1
+27bdbb3e.bacc54 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,1
+27bdbb3e.bacc54 : Message received from user with ID 2 on port 60002
+e0910e13.e0b48 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 3 Please keep your distance"
+e0910e13.e0b48 : Distance violation mote 2 is too close to mote 3
+e0910e13.e0b48 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,3
+e0910e13.e0b48 : Message received from user with ID 2 on port 60002
+6ec06140.7ecd5 : Notification send to user 1mobile phone
+ecde7cb6.6c646 : Notification send to user 3mobile phone
+ff234a73.135358 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+ff234a73.135358 : Distance violation mote 3 is too close to mote 1
+ff234a73.135358 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+ff234a73.135358 : Message received from user with ID 3 on port 60003
+7dbaa14c.8629d : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+7dbaa14c.8629d : Distance violation mote 1 is too close to mote 3
+7dbaa14c.8629d : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+7dbaa14c.8629d : Message received from user with ID 1 on port 60001
+7dbaa14c.8629d : Notification send to user 1mobile phone
+ff234a73.135358 : Notification send to user 3mobile phone
+551f1c26.712104 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 2 Please keep your distance"
+551f1c26.712104 : Distance violation mote 1 is too close to mote 2
+551f1c26.712104 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,2
+551f1c26.712104 : Message received from user with ID 1 on port 60001
+7b3b593e.6adff8 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 2 Please keep your distance"
+7b3b593e.6adff8 : Distance violation mote 3 is too close to mote 2
+7b3b593e.6adff8 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,2
+7b3b593e.6adff8 : Message received from user with ID 3 on port 60003
+164b901b.6235e : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 1 Please keep your distance"
+164b901b.6235e : Distance violation mote 2 is too close to mote 1
+164b901b.6235e : True Message from user with ID 2 extracted successfuly. Message extracted: 2,1
+164b901b.6235e : Message received from user with ID 2 on port 60002
+abad5a60.c20c78 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 3 Please keep your distance"
+abad5a60.c20c78 : Distance violation mote 2 is too close to mote 3
+abad5a60.c20c78 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,3
+abad5a60.c20c78 : Message received from user with ID 2 on port 60002
+7b3b593e.6adff8 : Notification send to user 3mobile phone
+551f1c26.712104 : Notification send to user 1mobile phone
+89b6fd48.01efe : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 5 Please keep your distance"
+89b6fd48.01efe : Distance violation mote 3 is too close to mote 5
+89b6fd48.01efe : True Message from user with ID 3 extracted successfuly. Message extracted: 3,5
+89b6fd48.01efe : Message received from user with ID 3 on port 60003
+d043020b.02fab : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 5 Please keep your distance"
+d043020b.02fab : Distance violation mote 1 is too close to mote 5
+d043020b.02fab : True Message from user with ID 1 extracted successfuly. Message extracted: 1,5
+d043020b.02fab : Message received from user with ID 1 on port 60001
+72bc64e9.00a8fc : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 5 Please keep your distance"
+72bc64e9.00a8fc : Distance violation mote 2 is too close to mote 5
+72bc64e9.00a8fc : True Message from user with ID 2 extracted successfuly. Message extracted: 2,5
+72bc64e9.00a8fc : Message received from user with ID 2 on port 60002
+63871e86.a17c4 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 2 Please keep your distance"
+63871e86.a17c4 : Distance violation mote 5 is too close to mote 2
+63871e86.a17c4 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,2
+63871e86.a17c4 : Message received from user with ID 5 on port 60005
+a59fb822.b6ac18 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+a59fb822.b6ac18 : Distance violation mote 3 is too close to mote 1
+a59fb822.b6ac18 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+a59fb822.b6ac18 : Message received from user with ID 3 on port 60003
+b3d9fea6.a4b4f : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 1 Please keep your distance"
+b3d9fea6.a4b4f : Distance violation mote 5 is too close to mote 1
+b3d9fea6.a4b4f : True Message from user with ID 5 extracted successfuly. Message extracted: 5,1
+b3d9fea6.a4b4f : Message received from user with ID 5 on port 60005
+33bdae47.fa2722 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+33bdae47.fa2722 : Distance violation mote 1 is too close to mote 3
+33bdae47.fa2722 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+33bdae47.fa2722 : Message received from user with ID 1 on port 60001
+ea4364ec.3f0008 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 3 Please keep your distance"
+ea4364ec.3f0008 : Distance violation mote 5 is too close to mote 3
+ea4364ec.3f0008 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,3
+ea4364ec.3f0008 : Message received from user with ID 5 on port 60005
+d043020b.02fab : Notification send to user 1mobile phone
+89b6fd48.01efe : Notification send to user 3mobile phone
+a59fb822.b6ac18 : Notification send to user 3mobile phone
+33bdae47.fa2722 : Notification send to user 1mobile phone
+336d20ec.c4a21 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 2 Please keep your distance"
+336d20ec.c4a21 : Distance violation mote 1 is too close to mote 2
+336d20ec.c4a21 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,2
+336d20ec.c4a21 : Message received from user with ID 1 on port 60001
+6cd9c041.e8f0e : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 2 Please keep your distance"
+6cd9c041.e8f0e : Distance violation mote 3 is too close to mote 2
+6cd9c041.e8f0e : True Message from user with ID 3 extracted successfuly. Message extracted: 3,2
+6cd9c041.e8f0e : Message received from user with ID 3 on port 60003
+271ad397.f1799c : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 1 Please keep your distance"
+271ad397.f1799c : Distance violation mote 2 is too close to mote 1
+271ad397.f1799c : True Message from user with ID 2 extracted successfuly. Message extracted: 2,1
+271ad397.f1799c : Message received from user with ID 2 on port 60002
+e6659a47.cd0678 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 3 Please keep your distance"
+e6659a47.cd0678 : Distance violation mote 2 is too close to mote 3
+e6659a47.cd0678 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,3
+e6659a47.cd0678 : Message received from user with ID 2 on port 60002
+6cd9c041.e8f0e : Notification send to user 3mobile phone
+336d20ec.c4a21 : Notification send to user 1mobile phone
+8d9185df.42d3e8 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 5 Please keep your distance"
+8d9185df.42d3e8 : Distance violation mote 4 is too close to mote 5
+8d9185df.42d3e8 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,5
+8d9185df.42d3e8 : Message received from user with ID 4 on port 60004
+e7999c81.59f0b : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 4 Please keep your distance"
+e7999c81.59f0b : Distance violation mote 1 is too close to mote 4
+e7999c81.59f0b : True Message from user with ID 1 extracted successfuly. Message extracted: 1,4
+e7999c81.59f0b : Message received from user with ID 1 on port 60001
+6fe53fb8.c5f1c : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 4 Please keep your distance"
+6fe53fb8.c5f1c : Distance violation mote 3 is too close to mote 4
+6fe53fb8.c5f1c : True Message from user with ID 3 extracted successfuly. Message extracted: 3,4
+6fe53fb8.c5f1c : Message received from user with ID 3 on port 60003
+4b6dcc3d.428bc4 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 4 Please keep your distance"
+4b6dcc3d.428bc4 : Distance violation mote 5 is too close to mote 4
+4b6dcc3d.428bc4 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,4
+4b6dcc3d.428bc4 : Message received from user with ID 5 on port 60005
+fe017640.2a54c8 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 4 Please keep your distance"
+fe017640.2a54c8 : Distance violation mote 2 is too close to mote 4
+fe017640.2a54c8 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,4
+fe017640.2a54c8 : Message received from user with ID 2 on port 60002
+17e72f31.064b41 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 1 Please keep your distance"
+17e72f31.064b41 : Distance violation mote 4 is too close to mote 1
+17e72f31.064b41 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,1
+17e72f31.064b41 : Message received from user with ID 4 on port 60004
+d5b18887.77c718 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 3 Please keep your distance"
+d5b18887.77c718 : Distance violation mote 4 is too close to mote 3
+d5b18887.77c718 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,3
+d5b18887.77c718 : Message received from user with ID 4 on port 60004
+818f9f98.88673 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 2 Please keep your distance"
+818f9f98.88673 : Distance violation mote 4 is too close to mote 2
+818f9f98.88673 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,2
+818f9f98.88673 : Message received from user with ID 4 on port 60004
+6fe53fb8.c5f1c : Notification send to user 3mobile phone
+e7999c81.59f0b : Notification send to user 1mobile phone
+575d30d8.05133 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 5 Please keep your distance"
+575d30d8.05133 : Distance violation mote 1 is too close to mote 5
+575d30d8.05133 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,5
+575d30d8.05133 : Message received from user with ID 1 on port 60001
+2cc3461.e4e48ba : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 5 Please keep your distance"
+2cc3461.e4e48ba : Distance violation mote 3 is too close to mote 5
+2cc3461.e4e48ba : True Message from user with ID 3 extracted successfuly. Message extracted: 3,5
+2cc3461.e4e48ba : Message received from user with ID 3 on port 60003
+93a8346.2ecbcc8 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 5 Please keep your distance"
+93a8346.2ecbcc8 : Distance violation mote 2 is too close to mote 5
+93a8346.2ecbcc8 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,5
+93a8346.2ecbcc8 : Message received from user with ID 2 on port 60002
+b288f2dc.00921 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 2 Please keep your distance"
+b288f2dc.00921 : Distance violation mote 5 is too close to mote 2
+b288f2dc.00921 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,2
+b288f2dc.00921 : Message received from user with ID 5 on port 60005
+acf1e007.dc3eb : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+acf1e007.dc3eb : Distance violation mote 3 is too close to mote 1
+acf1e007.dc3eb : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+acf1e007.dc3eb : Message received from user with ID 3 on port 60003
+e9107ba8.4bde58 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 1 Please keep your distance"
+e9107ba8.4bde58 : Distance violation mote 5 is too close to mote 1
+e9107ba8.4bde58 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,1
+e9107ba8.4bde58 : Message received from user with ID 5 on port 60005
+9cdd4761.a43ef8 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+9cdd4761.a43ef8 : Distance violation mote 1 is too close to mote 3
+9cdd4761.a43ef8 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+9cdd4761.a43ef8 : Message received from user with ID 1 on port 60001
+e1b4aff0.074a2 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 3 Please keep your distance"
+e1b4aff0.074a2 : Distance violation mote 5 is too close to mote 3
+e1b4aff0.074a2 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,3
+e1b4aff0.074a2 : Message received from user with ID 5 on port 60005
+2cc3461.e4e48ba : Notification send to user 3mobile phone
+575d30d8.05133 : Notification send to user 1mobile phone
+acf1e007.dc3eb : Notification send to user 3mobile phone
+9cdd4761.a43ef8 : Notification send to user 1mobile phone
+3bb4c1a9.43be6e : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 2 Please keep your distance"
+3bb4c1a9.43be6e : Distance violation mote 1 is too close to mote 2
+3bb4c1a9.43be6e : True Message from user with ID 1 extracted successfuly. Message extracted: 1,2
+3bb4c1a9.43be6e : Message received from user with ID 1 on port 60001
+63445a18.ce4084 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 2 Please keep your distance"
+63445a18.ce4084 : Distance violation mote 3 is too close to mote 2
+63445a18.ce4084 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,2
+63445a18.ce4084 : Message received from user with ID 3 on port 60003
+f9098b65.67e8c8 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 1 Please keep your distance"
+f9098b65.67e8c8 : Distance violation mote 2 is too close to mote 1
+f9098b65.67e8c8 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,1
+f9098b65.67e8c8 : Message received from user with ID 2 on port 60002
+653dce61.06dd2 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 3 Please keep your distance"
+653dce61.06dd2 : Distance violation mote 2 is too close to mote 3
+653dce61.06dd2 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,3
+653dce61.06dd2 : Message received from user with ID 2 on port 60002
+3bb4c1a9.43be6e : Notification send to user 1mobile phone
+63445a18.ce4084 : Notification send to user 3mobile phone
+e8d402a6.4e6f9 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 5 Please keep your distance"
+e8d402a6.4e6f9 : Distance violation mote 4 is too close to mote 5
+e8d402a6.4e6f9 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,5
+e8d402a6.4e6f9 : Message received from user with ID 4 on port 60004
+8a27a45c.ef2fe8 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 4 Please keep your distance"
+8a27a45c.ef2fe8 : Distance violation mote 1 is too close to mote 4
+8a27a45c.ef2fe8 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,4
+8a27a45c.ef2fe8 : Message received from user with ID 1 on port 60001
+d3d02e60.311bc : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 4 Please keep your distance"
+d3d02e60.311bc : Distance violation mote 3 is too close to mote 4
+d3d02e60.311bc : True Message from user with ID 3 extracted successfuly. Message extracted: 3,4
+d3d02e60.311bc : Message received from user with ID 3 on port 60003
+6e877148.24aa9 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 4 Please keep your distance"
+6e877148.24aa9 : Distance violation mote 5 is too close to mote 4
+6e877148.24aa9 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,4
+6e877148.24aa9 : Message received from user with ID 5 on port 60005
+4efe1289.9cffac : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 4 Please keep your distance"
+4efe1289.9cffac : Distance violation mote 2 is too close to mote 4
+4efe1289.9cffac : True Message from user with ID 2 extracted successfuly. Message extracted: 2,4
+4efe1289.9cffac : Message received from user with ID 2 on port 60002
+c9180878.8a0d68 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 1 Please keep your distance"
+c9180878.8a0d68 : Distance violation mote 4 is too close to mote 1
+c9180878.8a0d68 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,1
+c9180878.8a0d68 : Message received from user with ID 4 on port 60004
+bc31548d.8c8348 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 3 Please keep your distance"
+bc31548d.8c8348 : Distance violation mote 4 is too close to mote 3
+bc31548d.8c8348 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,3
+bc31548d.8c8348 : Message received from user with ID 4 on port 60004
+610eb024.a9832 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 2 Please keep your distance"
+610eb024.a9832 : Distance violation mote 4 is too close to mote 2
+610eb024.a9832 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,2
+610eb024.a9832 : Message received from user with ID 4 on port 60004
+8a27a45c.ef2fe8 : Notification send to user 1mobile phone
+d3d02e60.311bc : Notification send to user 3mobile phone
+14c31aa6.56aa85 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 5 Please keep your distance"
+14c31aa6.56aa85 : Distance violation mote 1 is too close to mote 5
+14c31aa6.56aa85 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,5
+14c31aa6.56aa85 : Message received from user with ID 1 on port 60001
+768a0e89.c743f : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 5 Please keep your distance"
+768a0e89.c743f : Distance violation mote 3 is too close to mote 5
+768a0e89.c743f : True Message from user with ID 3 extracted successfuly. Message extracted: 3,5
+768a0e89.c743f : Message received from user with ID 3 on port 60003
+38586cb2.db4254 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 5 Please keep your distance"
+38586cb2.db4254 : Distance violation mote 2 is too close to mote 5
+38586cb2.db4254 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,5
+38586cb2.db4254 : Message received from user with ID 2 on port 60002
+5a78a332.43d6cc : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 2 Please keep your distance"
+5a78a332.43d6cc : Distance violation mote 5 is too close to mote 2
+5a78a332.43d6cc : True Message from user with ID 5 extracted successfuly. Message extracted: 5,2
+5a78a332.43d6cc : Message received from user with ID 5 on port 60005
+98983f76.829b : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+98983f76.829b : Distance violation mote 3 is too close to mote 1
+98983f76.829b : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+98983f76.829b : Message received from user with ID 3 on port 60003
+a432c74d.7fd308 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 1 Please keep your distance"
+a432c74d.7fd308 : Distance violation mote 5 is too close to mote 1
+a432c74d.7fd308 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,1
+a432c74d.7fd308 : Message received from user with ID 5 on port 60005
+f5e5ebd0.268808 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+f5e5ebd0.268808 : Distance violation mote 1 is too close to mote 3
+f5e5ebd0.268808 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+f5e5ebd0.268808 : Message received from user with ID 1 on port 60001
+5cb7222a.8adddc : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 3 Please keep your distance"
+5cb7222a.8adddc : Distance violation mote 5 is too close to mote 3
+5cb7222a.8adddc : True Message from user with ID 5 extracted successfuly. Message extracted: 5,3
+5cb7222a.8adddc : Message received from user with ID 5 on port 60005
+14c31aa6.56aa85 : Notification send to user 1mobile phone
+768a0e89.c743f : Notification send to user 3mobile phone
+98983f76.829b : Notification send to user 3mobile phone
+f5e5ebd0.268808 : Notification send to user 1mobile phone
+1c302b90.8e5df4 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 2 Please keep your distance"
+1c302b90.8e5df4 : Distance violation mote 1 is too close to mote 2
+1c302b90.8e5df4 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,2
+1c302b90.8e5df4 : Message received from user with ID 1 on port 60001
+5649dd54.d07574 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 2 Please keep your distance"
+5649dd54.d07574 : Distance violation mote 3 is too close to mote 2
+5649dd54.d07574 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,2
+5649dd54.d07574 : Message received from user with ID 3 on port 60003
+74a6528a.e2b4cc : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 1 Please keep your distance"
+74a6528a.e2b4cc : Distance violation mote 2 is too close to mote 1
+74a6528a.e2b4cc : True Message from user with ID 2 extracted successfuly. Message extracted: 2,1
+74a6528a.e2b4cc : Message received from user with ID 2 on port 60002
+1027a5de.914f3a : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 3 Please keep your distance"
+1027a5de.914f3a : Distance violation mote 2 is too close to mote 3
+1027a5de.914f3a : True Message from user with ID 2 extracted successfuly. Message extracted: 2,3
+1027a5de.914f3a : Message received from user with ID 2 on port 60002
+5649dd54.d07574 : Notification send to user 3mobile phone
+1c302b90.8e5df4 : Notification send to user 1mobile phone
+5859297a.505a78 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 5 Please keep your distance"
+5859297a.505a78 : Distance violation mote 4 is too close to mote 5
+5859297a.505a78 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,5
+5859297a.505a78 : Message received from user with ID 4 on port 60004
+18542ddb.113912 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 4 Please keep your distance"
+18542ddb.113912 : Distance violation mote 1 is too close to mote 4
+18542ddb.113912 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,4
+18542ddb.113912 : Message received from user with ID 1 on port 60001
+66cfc786.6b2618 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 4 Please keep your distance"
+66cfc786.6b2618 : Distance violation mote 3 is too close to mote 4
+66cfc786.6b2618 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,4
+66cfc786.6b2618 : Message received from user with ID 3 on port 60003
+a6870130.31cc1 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 4 Please keep your distance"
+a6870130.31cc1 : Distance violation mote 5 is too close to mote 4
+a6870130.31cc1 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,4
+a6870130.31cc1 : Message received from user with ID 5 on port 60005
+69a53059.5836b : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 4 Please keep your distance"
+69a53059.5836b : Distance violation mote 2 is too close to mote 4
+69a53059.5836b : True Message from user with ID 2 extracted successfuly. Message extracted: 2,4
+69a53059.5836b : Message received from user with ID 2 on port 60002
+2aba9ed3.d17092 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 1 Please keep your distance"
+2aba9ed3.d17092 : Distance violation mote 4 is too close to mote 1
+2aba9ed3.d17092 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,1
+2aba9ed3.d17092 : Message received from user with ID 4 on port 60004
+2fc24ae6.257856 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 3 Please keep your distance"
+2fc24ae6.257856 : Distance violation mote 4 is too close to mote 3
+2fc24ae6.257856 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,3
+2fc24ae6.257856 : Message received from user with ID 4 on port 60004
+66cfc786.6b2618 : Notification send to user 3mobile phone
+d99e854f.48bed8 : Message to be send from user with ID 4 is:
+				 "You with the ID 4 are close to user with ID 2 Please keep your distance"
+d99e854f.48bed8 : Distance violation mote 4 is too close to mote 2
+d99e854f.48bed8 : True Message from user with ID 4 extracted successfuly. Message extracted: 4,2
+d99e854f.48bed8 : Message received from user with ID 4 on port 60004
+18542ddb.113912 : Notification send to user 1mobile phone
+58f10cf.d753cf4 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 5 Please keep your distance"
+58f10cf.d753cf4 : Distance violation mote 2 is too close to mote 5
+58f10cf.d753cf4 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,5
+58f10cf.d753cf4 : Message received from user with ID 2 on port 60002
+fa120820.b34d68 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 5 Please keep your distance"
+fa120820.b34d68 : Distance violation mote 1 is too close to mote 5
+fa120820.b34d68 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,5
+fa120820.b34d68 : Message received from user with ID 1 on port 60001
+46f24125.2a1ec : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 5 Please keep your distance"
+46f24125.2a1ec : Distance violation mote 3 is too close to mote 5
+46f24125.2a1ec : True Message from user with ID 3 extracted successfuly. Message extracted: 3,5
+46f24125.2a1ec : Message received from user with ID 3 on port 60003
+c63917b.0855fe8 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 2 Please keep your distance"
+c63917b.0855fe8 : Distance violation mote 5 is too close to mote 2
+c63917b.0855fe8 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,2
+c63917b.0855fe8 : Message received from user with ID 5 on port 60005
+9d41fcd0.fe7b2 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 1 Please keep your distance"
+9d41fcd0.fe7b2 : Distance violation mote 3 is too close to mote 1
+9d41fcd0.fe7b2 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,1
+9d41fcd0.fe7b2 : Message received from user with ID 3 on port 60003
+504d10e.dafaff : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 1 Please keep your distance"
+504d10e.dafaff : Distance violation mote 5 is too close to mote 1
+504d10e.dafaff : True Message from user with ID 5 extracted successfuly. Message extracted: 5,1
+504d10e.dafaff : Message received from user with ID 5 on port 60005
+144d7a58.b5a7c6 : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 3 Please keep your distance"
+144d7a58.b5a7c6 : Distance violation mote 1 is too close to mote 3
+144d7a58.b5a7c6 : True Message from user with ID 1 extracted successfuly. Message extracted: 1,3
+144d7a58.b5a7c6 : Message received from user with ID 1 on port 60001
+3bff3c17.c32794 : Message to be send from user with ID 5 is:
+				 "You with the ID 5 are close to user with ID 3 Please keep your distance"
+3bff3c17.c32794 : Distance violation mote 5 is too close to mote 3
+3bff3c17.c32794 : True Message from user with ID 5 extracted successfuly. Message extracted: 5,3
+3bff3c17.c32794 : Message received from user with ID 5 on port 60005
+46f24125.2a1ec : Notification send to user 3mobile phone
+fa120820.b34d68 : Notification send to user 1mobile phone
+144d7a58.b5a7c6 : Notification send to user 1mobile phone
+43fba4c1.92389c : Message to be send from user with ID 1 is:
+				 "You with the ID 1 are close to user with ID 2 Please keep your distance"
+43fba4c1.92389c : Distance violation mote 1 is too close to mote 2
+43fba4c1.92389c : True Message from user with ID 1 extracted successfuly. Message extracted: 1,2
+43fba4c1.92389c : Message received from user with ID 1 on port 60001
+dac4922f.44bc8 : Message to be send from user with ID 3 is:
+				 "You with the ID 3 are close to user with ID 2 Please keep your distance"
+dac4922f.44bc8 : Distance violation mote 3 is too close to mote 2
+dac4922f.44bc8 : True Message from user with ID 3 extracted successfuly. Message extracted: 3,2
+dac4922f.44bc8 : Message received from user with ID 3 on port 60003
+9d41fcd0.fe7b2 : Notification send to user 3mobile phone
+15df26f8.b6ec69 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 1 Please keep your distance"
+15df26f8.b6ec69 : Distance violation mote 2 is too close to mote 1
+15df26f8.b6ec69 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,1
+15df26f8.b6ec69 : Message received from user with ID 2 on port 60002
+1ead1bcf.29d5b4 : Message to be send from user with ID 2 is:
+				 "You with the ID 2 are close to user with ID 3 Please keep your distance"
+1ead1bcf.29d5b4 : Distance violation mote 2 is too close to mote 3
+1ead1bcf.29d5b4 : True Message from user with ID 2 extracted successfuly. Message extracted: 2,3
+1ead1bcf.29d5b4 : Message received from user with ID 2 on port 60002
+dac4922f.44bc8 : Notification send to user 3mobile phone
+43fba4c1.92389c : Notification send to user 1mobile phone
